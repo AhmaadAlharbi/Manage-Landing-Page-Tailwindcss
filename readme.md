@@ -1,5 +1,5 @@
 # manage-landing-page
-This is a solution to the [  Fylo Website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5/hub/manage-landing-page-challenge-hub-NJQJ3m9Ht).
+This is a solution to the [ Manage Landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5/hub/manage-landing-page-challenge-hub-NJQJ3m9Ht).
 
 
 ## Overview
